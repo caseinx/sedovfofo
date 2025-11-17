@@ -1,6 +1,13 @@
 /* глобальные стили */
 @import "globalStyles.css";
 
+/* переменные */
+@import "variables.css";
+@import "colors.css";
+
+/* шрифты */
+@import "fonts.css";
+
 /* Блоки */
 @import "blocks/body.css";
 @import "blocks/header.css";
