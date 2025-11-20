@@ -10,6 +10,8 @@
 
 /* Блоки */
 @import "blocks/body.css";
+@import "blocks/hamburger.css";
+@import "blocks/nav-list.css";
 @import "blocks/header.css";
 @import "blocks/main.css";
 
