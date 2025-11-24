@@ -15,6 +15,9 @@
 @import "blocks/header.css";
 @import "blocks/main.css";
 @import "blocks/menu-item.css";
+@import "blocks/parallax.css";
+@import "blocks/chip-item.css";
+@import "blocks/menu-item.css"
 
 /* секции */
 @import "blocks/sections/cover.css";
