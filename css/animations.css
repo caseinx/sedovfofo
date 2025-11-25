@@ -1,3 +1,7 @@
+.anim-no-opacity {
+  opacity: 0;
+}
+
 @keyframes slow-rotating {
   0% {
     transform: rotate(0);
